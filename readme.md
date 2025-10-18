@@ -14,3 +14,6 @@
 - Прогрес-бар
 - Плейліст
 
+## Demo Link
+
+- [DEMO LINK](https://romanostrous.github.io/JavaScript-mp3player/)
